@@ -4,6 +4,3 @@ dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     testImplementation 'junit:junit:4.13.2'
 }
-
-sourceCompatibility = "1.7"
-targetCompatibility = "1.7"
